@@ -1,0 +1,112 @@
+{
+    "pelicula": [
+      {
+        "id": "P001",
+        "titulo": "El Padrino: Parte II",
+        "director": "Francis Ford Coppola",
+        "precioEntrada": 12.50,
+        "duracionMinutos": 202,
+        "fechaEstreno": "December 4, 1974",
+        "actores": [
+          {
+            "nombre": "Al Pacino",
+            "personaje": "Michael Corleone"
+          },
+          {
+            "nombre": "Robert Dey:0",
+            "personaje": "Tom Hagen"
+          }
+        ]
+      },
+      {
+        "id": "P002",
+        "titulo": "El Padrino: Parte I",
+        "director": "Francis Ford Coppola",
+        "precioEntrada": 11.75,
+        "duracionMinutos": 177,
+        "fechaEstreno": "March 25, 1972",
+        "actores": [
+          {
+            "nombre": "Marlon Brando",
+            "personaje": "Don Vito Corleone"
+          },
+          {
+            "nombre": "Al Pacino",
+            "personaje": "Michael Corleone"
+          }
+        ]
+      },
+      {
+        "id": "P003",
+        "titulo": "El Padrino III",
+        "director": "Francis Ford Coppola",
+        "precioEntrada": 13.25,
+        "duracionMinutos": 190,
+        "fechaEstreno": "December 7, 1990",
+        "actores": [
+          {
+            "nombre": "Al Pacino",
+            "personaje": "Don Michael Corleone"
+          },
+          {
+            "nombre": "Diane Keaton",
+            "personaje": "Kay Adams"
+          }
+        ]
+      },
+      {
+        "id": "P004",
+        "titulo": "El Padrino: Parte IV",
+        "director": "Francis Ford Coppola",
+        "precioEntrada": 14.00,
+        "duracionMinutos": 210,
+        "fechaEstreno": "November 25, 2020",
+        "actores": [
+          {
+            "nombre": "Al Pacino",
+            "personaje": "Michael Corleone"
+          },
+          {
+            "nombre": "Robert De Niro",
+            "personaje": "Young Vito Corleone"
+          }
+        ]
+      },
+      {
+        "id": "P005",
+        "titulo": "El Padrino: Parte V",
+        "director": "Martin Scorsese",
+        "precioEntrada": 15.50,
+        "duracionMinutos": 220,
+        "fechaEstreno": "December 25, 2030",
+        "actores": [
+          {
+            "nombre": "Al Pacino",
+            "personaje": "Michael Corleone"
+          },
+          {
+            "nombre": "Liam Neeson",
+            "personaje": "Young Don Vito Corleone"
+          }
+        ]
+      },
+      {
+        "id": "P006",
+        "titulo": "El Padrino: Parte VI",
+        "director": "Christopher Nolan",
+        "precioEntrada": 16.75,
+        "duracionMinutos": 240,
+        "fechaEstreno": "January 1, 2050",
+        "actores": [
+          {
+            "nombre": "Al Pacino",
+            "personaje": "Michael Corleone"
+          },
+          {
+            "nombre": "Leonardo DiCaprio",
+            "personaje": "Young Don Vito Corleone"
+          }
+        ]
+      }
+    ]
+  }
